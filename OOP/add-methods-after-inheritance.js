@@ -9,8 +9,6 @@ Dog.prototype.constructor = Dog;
 
 Dog.prototype.bark = () => console.log("Woof!");
 
-
-
 // Only change code above this line
 
 let beagle = new Dog();
